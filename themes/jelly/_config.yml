@@ -5,8 +5,8 @@ menu:
 
 # links with icon in the left-column bar
 subnav:
-  # github: "#"
-  # mail: "#"
+  github: "https://github.com/Sonryonha"
+  mail: "Sonryonha@163.com"
   # rss: "/atom.xml"
   # zhihu: "#"
   # weibo: "#"
@@ -30,18 +30,18 @@ mathjax: false
 animate: true
 
 # whether to open the link in the new window
-open_in_new: false
+open_in_new: true
 
 favicon: /img/favicon.ico
 
 # your avatar's url
-avatar: 
+avatar: /img/myself.png
 
 # NetEase Cloud Music (wangyiyun of course)
 music:
-  enable: false
+  enable: true
   # id of a certain music on NetEase Cloud Music
-  id: 
+  id: 1903040399
 
 # if you need to enable disqus, set 'disqus_shortname' to your disqus username
 # disqus_shortname:
@@ -60,4 +60,4 @@ leancloud_visitors:
 friends:
   github: https://github.com/
 # a brief introduction to yourself
-aboutme: I'm a developer.
+aboutme: New developer.
