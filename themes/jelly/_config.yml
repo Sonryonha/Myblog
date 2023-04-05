@@ -2,8 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-
-  
+  Categories: /categories
 
 # links with icon in the left-column bar
 subnav:
@@ -63,3 +62,7 @@ friends:
   github: https://github.com/Sonryonha/
 # a brief introduction to yourself
 aboutme: Programming comes from love.
+
+category_map:
+  - 算法: /categories/
+tag_map:

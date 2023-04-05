@@ -68,6 +68,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  - 算法: /categories/算法/
 tag_map:
 
 # Metadata elements
