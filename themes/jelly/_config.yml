@@ -59,7 +59,7 @@ leancloud_visitors:
 
 # whether to enable the friend links, if not, set 'friends' to false and do not add any link
 # friends: false
-friends: false
-  github: 
+friends:
+  github: https://github.com/Sonryonha/
 # a brief introduction to yourself
 aboutme: Programming comes from love.
