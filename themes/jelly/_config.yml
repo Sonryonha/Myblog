@@ -2,6 +2,12 @@
 menu:
   Home: /
   Archives: /archives
+    分类:
+      日常分享: /
+      算法练习: /算法练习
+      报错解决: /
+
+  
 
 # links with icon in the left-column bar
 subnav:
@@ -57,7 +63,7 @@ leancloud_visitors:
 
 # whether to enable the friend links, if not, set 'friends' to false and do not add any link
 # friends: false
-friends:
-  github: https://github.com/
+friends: false
+  github: 
 # a brief introduction to yourself
-aboutme: New developer.
+aboutme: Programming comes from love.
