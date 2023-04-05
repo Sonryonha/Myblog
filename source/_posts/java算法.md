@@ -3,7 +3,7 @@ title: 算法练习（java）
 categories: 
 - 算法
 tags: 
-- 算法
+- java算法
 ---
 
 ## 数组
