@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Categories: /categories
+  # Categories: /categories
 
 # links with icon in the left-column bar
 subnav:
@@ -63,6 +63,6 @@ friends:
 # a brief introduction to yourself
 aboutme: Programming comes from love.
 
-category_map:
-  - 算法: /categories/
-tag_map:
+# category_map:
+#   - 算法: /categories/
+# tag_map:
