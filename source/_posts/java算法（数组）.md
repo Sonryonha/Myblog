@@ -8,7 +8,7 @@ tags:
 ---
 
 ### 螺旋矩阵||
- ```java
+```java
  class Solution {
     public int[][] generateMatrix(int n) {
         int[][] res = new int[n][n];

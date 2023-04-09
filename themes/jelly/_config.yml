@@ -7,7 +7,7 @@ menu:
 # links with icon in the left-column bar
 subnav:
   github: "https://github.com/Sonryonha"
-  mail: "Sonryonha@163.com"
+  # mail: "#"
   # rss: "/atom.xml"
   # zhihu: "#"
   # weibo: "#"
@@ -42,8 +42,10 @@ avatar: /img/myself.png
 music:
   enable: true
   # id of a certain music on NetEase Cloud Music
-  id: 1903040399
-
+  # id: 1806597264 #勘冴えて悔しいわ
+  # id: 1903040399 # Dark room
+  # id: 1480078061 #pain
+  id: 903584199 # 云外憧憬
 # if you need to enable disqus, set 'disqus_shortname' to your disqus username
 # disqus_shortname:
 

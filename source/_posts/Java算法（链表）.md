@@ -6,6 +6,7 @@ tags:
 - Java算法
 - 链表
 ---
+### 移除链表元素
 ```java
 /**
  * Definition for singly-linked list.
