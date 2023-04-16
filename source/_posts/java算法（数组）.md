@@ -7,6 +7,29 @@ tags:
 - 数组
 ---
 
+### 长度最小的子数组
+```java
+class Solution {
+    public int minSubArrayLen(int target, int[] nums) {
+        // 窗口内元素的和
+        int sum = 0;
+        // 设置为最大值
+        int result = Integer.MAX_VALUE;
+        // 定义左窗口起点
+        int left = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+            sum += nums[right];
+            while (sum >= target) {
+                result = Math.min(result, right - left + 1);
+                sum -= nums[left++];
+            }
+        }
+        return result == Integer.MAX_VALUE ? 0 : result;
+    }
+}
+```
+
 ### 螺旋矩阵||
 ```java
  class Solution {
